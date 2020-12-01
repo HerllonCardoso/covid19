@@ -41,7 +41,7 @@ function Panel({ updateAt, onChange, data, country, getCovidData }) {
   const renderShareButton = (
     <div>
       <Button variant="contained" color="primary" onClick={shareInfo}>
-        Compartilhar
+        Share
       </Button>
     </div>
   );
