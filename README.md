@@ -1,15 +1,17 @@
 <h1 align="center">
- COVID PWA Panel 
+ COVID PWA Panel <br>
 </h1>
 
   <p align="center">
-  <img alt="dashboard" src="src/.github/dashboard.jpg" width="100%">
+  <img src="https://i.imgur.com/J88Mspl.jpg" width="80%" >
 </p>
 </p>
 
 ## 💻 Sobre
 
 PWA desenvolvida para listar os principais dados de covid19 de alguns países, os dados estão sendo consumidos da API https://coronavirus-19-api.herokuapp.com/.
+
+Deploy realizado no netlify, confira em https://covid19panel.netlify.app/
 
 ## 🚀 Tecnologias
 
